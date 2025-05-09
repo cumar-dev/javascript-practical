@@ -2,7 +2,7 @@
 function greet() {
     console.log('Hello world!!')
 }
-greet();
+greet("show man");
 
 //parameters
 
