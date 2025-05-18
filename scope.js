@@ -39,3 +39,21 @@ showVariable();
     console.log(myName)
     console.log(year)
 }
+
+
+var x = 5;
+
+if(true) {
+    var x = 10;
+}
+console.log(x);
+ 10
+
+let x = 5;
+
+if(true) {
+    let x = 10;
+}
+console.log(x);
+///5
+

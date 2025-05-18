@@ -5,8 +5,8 @@ fruits.forEach((fruit, index)=>{
 })
 
 //function expression
-// fruits.forEach(function(fruit) {
-//     console.log("i like "+ fruit)
-// })
+fruits.forEach(function(fruit) {
+    console.log("i like "+ fruit)
+})
 
 // this function anawnimas function
