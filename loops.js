@@ -100,23 +100,3 @@ for(const key in teacherID) {
     console.log(teacherID[key])
 }
 
-// const people = [
-//     {
-//     name : "Alice", 
-//     age : 25, 
-//     city : "wonderland"
-// },
-//     {
-//         name : "Bob", 
-//         age : 30, 
-//         city : "Builderland"
-//     },
-//     {
-//         name : "Charlie",
-//          age : 35, 
-//          city : "Choclate Factory"
-//         }
-// ];
-// for(let p of Object.entries (people)) {
-//     console.log(p[0] + ": " + p[1]);
-// }
